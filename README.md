@@ -1,7 +1,7 @@
 # 💫Hi There, I'm Mobashshir!
 
 # About me:
-I’m currently working on a Flutter-based project.<br>I’m now learning more about JavaScript and Node.js.<br>Ask me about Flutter, Python, or any tech-related stuff.<br>Alhamdulillah, I have an app on play-store with 5k+ downloads and a 4.8+ rating with 100+ reviews!<br>I give daily some time to practice DS-Algo to improve problem-solving.
+I’m currently working on a Flutter-based project.<br>I’m now learning more about JavaScript and Node.js.<br>Ask me about Flutter, Python, or any tech-related stuff.<br>Alhamdulillah, I have an app on play-store with 10k+ downloads and a 4.8+ rating with 100+ reviews!<br>I give daily some time to practice DS-Algo to improve problem-solving.
 
 
 # 💻 Tech Stack:
