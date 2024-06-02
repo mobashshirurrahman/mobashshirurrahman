@@ -1,7 +1,7 @@
 # 💫Hi There, I'm Mobashshir!
 
 # About me:
-I’m currently working on a Flutter-based project.<br>I’m now learning more about JavaScript and Node.js.<br>Ask me about Flutter, Python, or any tech-related stuff.<br>Alhamdulillah, I have an app on play-store with 10k+ downloads and a 4.8+ rating with 100+ reviews!<br>I give daily some time to practice DS-Algo to improve problem-solving.
+I’m currently working as a software engineer in a product based company.<br>I’m now learning more about JavaScript and Django.<br>Ask me about Flutter, Python, or any tech-related stuff.<br>Alhamdulillah, I have an app on play-store with 15k+ downloads and a 4.8+ rating with 100+ reviews!<br>I give daily some time to read practice DS-Algo to improve problem-solving. <be> My hobby is to learn Quran more & more and live a life according to it.
 
 
 # 💻 Tech Stack:
